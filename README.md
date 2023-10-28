@@ -10,7 +10,7 @@
   - [Blog: Load Balancing Traffic to Applications in Kubernetes Cluster](https://www.a10networks.com/blog/load-balancing-traffic-to-applications-in-kubernetes-cluster/)
   - [Tips & Config Article: Thunder Kubernetes Connector with Thunder ADC](https://community.a10networks.com/discussion/16920/thunder-kubernetes-connector-with-thunder-adc)
   - [Tips & Config Article: Thunder ADC with Thunder Kubernetes Connector (TKC) using A10 CRDs](https://community.a10networks.com/discussion/16961/t-c-thunder-adc-with-thunder-kubernetes-connector-tkc-using-crds)
-  - [Tips & Config Article: Load balancing K8s traffic directly to K8s Pods with Thunder ADC and TKC using IPIP Tunnels](https://community.a10networks.com/discussion/16971/t-c-load-balancing-kubernetes-traffic-with-thunder-adc-and-tkc-using-ipip-tunnel)
+  - [Tips & Config Article: Load balancing external traffic directly to K8s Pods with Thunder ADC and TKC using IPIP Tunnels](https://community.a10networks.com/discussion/16971/t-c-load-balancing-kubernetes-traffic-with-thunder-adc-and-tkc-using-ipip-tunnel)
   - [Video: External Access to K8s Applications with Thunder ADC and TKC](https://youtu.be/gOX_OPQTVKE?si=ttJlbnrR2SCyUavh)
     
 - <b>Terraform with A10 Thunder ADC</b>
