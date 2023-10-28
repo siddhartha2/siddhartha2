@@ -29,6 +29,9 @@
   - [How To: Firewall with Application-based Rate-Limiting using Thunder CFW](https://community.a10networks.com/discussion/16897/t-c-firewall-with-application-based-rate-limiting-using-thunder-cfw)
   - [How To: Firewall with Application-level Visibility using Thunder CFW](https://community.a10networks.com/discussion/16867/t-c-firewall-with-application-visibility-using-thunder-cfw)
 
+- <b>IPv6 Migration using Thunder CGN/CFW</b>
+  - [How To: Deploy NAT64 and DNS64 with Thunder CGN/CFW](https://community.a10networks.com/discussion/16942/t-c-deploy-nat64-and-dns64-with-thunder-cgn-cfw)
+
 - <b>Secure Application Delivery using A10 Thunder ADC</b>
   - [Deployment Guide: Thunder ADC with TLS/SSL Certificate from Sectigo Certificate Manager (SCM)](https://www.a10networks.com/wp-content/uploads/A10-DG-Thunder-ADC-with-TLS-SSL-Certificate-from-Sectigo-Certificate-Manager.pdf)
   - [Video: Deploying SSL/TLS Web Server using A10 AppCentric Template (ACT)](https://youtu.be/z-XfrsxT6SU?si=zNWIq1sZDoi7CDHH)
@@ -44,7 +47,8 @@
 
 - <b>Authenticate Access to Applications with A10 Thunder ADC</b>
   - [Video: Form-Based Authentication using AppCentric Templates (ACT)](https://youtu.be/ABfYvQa5pgo?si=tth6rH5GaFmY07nZ)
-    
+
+
 <h2>📺 LightTalk 101 Videos</h2>
 
 - [What is SSL? (A10 LightTalk 101)](https://youtu.be/IA6vgUCCK2M?si=g-TN05orwSApy-1n)
